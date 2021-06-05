@@ -1,5 +1,6 @@
 # Rainbow-Family
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/556/854/datas/full_width.png">
+
 ## Inspiration
 As per detailed research and studies, people coming out as non-binary go through a lot of difficulties, especially in the earlier days, leading to an identity crisis, mental breakdown, depression, and sometimes even attempt to suicide. So, to overcome the unfortunate situation, we believe family is the safest place to go to. It is extremely important for an LBGTQ person to have families who respond to their identity, get reactions that can positively contribute to their health, mental health, and overall development. But unfortunately, there are very few comprehensive studies of how parental, caregiver, and family reactions contribute to their lesbian, gay, bisexual, and transgender (LGBTQ) children’s risk and well-being. So, we have come up with - The rainbow family which helps the family track down their child’s emotions, helps them support in emotional situations, and overall be there for them. It is a technology to enhance the Significance of Parenting and Parent-Child Relationships for Sexual and Gender Minority Adolescents
 
