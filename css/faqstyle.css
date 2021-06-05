@@ -28,7 +28,7 @@ h1 {
 }
 
 .faqtitle {
-    height: 40px;
+    height: 40%;
     background: #6bbA70;
     color: #fff;
     text-align: center;
@@ -40,7 +40,7 @@ h1 {
 }
 
 .faq li.q {
-    background: #eee;
+    background: linear-gradient(rgb(128, 243, 237), rgb(236, 161, 255));
     font-weight: bold;
     font-size: 120%;
     border-bottom: 1px #ddd solid;
